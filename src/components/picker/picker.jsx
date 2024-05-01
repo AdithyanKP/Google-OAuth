@@ -10,7 +10,7 @@ function Picker({clientId,api_key}) {
       clientId: clientId,
       developerKey: api_key,
       viewId: "DOCS",
-      token: 'ya29.a0Ad52N3_pa0ck-23pxry14f-_xOpPSLNgqXEY3FKD7ewk2WjXoJRJhQkovy7IHw5PfDrzlqOvG-PlU8hlEif--Fa56dJ-rozKTuhrloKtXvXNRZ1it0CWaUvLs9KQRLrLl0ao_s3PZz05NYS0apLdClbKCr6DjRu4GRL7aCgYKAUQSARASFQHGX2Misjy-TrlfC4wN0Ecm3ymJDQ0171', 
+      token: 'TOKEN', 
       showUploadView: true,
       showUploadFolders: true,
       supportDrives: true,
